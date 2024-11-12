@@ -1,0 +1,13 @@
+Idea - Barcode Scanner
+find links between people from call logs
+V1
+	scan barcode for PC
+		2D
+		3D
+V2
+	Mobile
+Technology
+	Web
+	JS  / Python /?
+	Google ML kit
+	
